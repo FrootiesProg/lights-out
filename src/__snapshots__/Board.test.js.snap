@@ -1,0 +1,105 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the starter board 1`] = `
+<DocumentFragment>
+  <div
+    class="Board"
+  >
+    <div
+      class="board-row"
+    >
+      <div
+        class="Cell "
+      />
+      <div
+        class="Cell "
+      />
+      <div
+        class="Cell Cell-lit"
+      />
+      <div
+        class="Cell "
+      />
+      <div
+        class="Cell Cell-lit"
+      />
+    </div>
+    <div
+      class="board-row"
+    >
+      <div
+        class="Cell "
+      />
+      <div
+        class="Cell Cell-lit"
+      />
+      <div
+        class="Cell Cell-lit"
+      />
+      <div
+        class="Cell "
+      />
+      <div
+        class="Cell "
+      />
+    </div>
+    <div
+      class="board-row"
+    >
+      <div
+        class="Cell "
+      />
+      <div
+        class="Cell "
+      />
+      <div
+        class="Cell "
+      />
+      <div
+        class="Cell "
+      />
+      <div
+        class="Cell Cell-lit"
+      />
+    </div>
+    <div
+      class="board-row"
+    >
+      <div
+        class="Cell "
+      />
+      <div
+        class="Cell Cell-lit"
+      />
+      <div
+        class="Cell "
+      />
+      <div
+        class="Cell "
+      />
+      <div
+        class="Cell "
+      />
+    </div>
+    <div
+      class="board-row"
+    >
+      <div
+        class="Cell Cell-lit"
+      />
+      <div
+        class="Cell "
+      />
+      <div
+        class="Cell "
+      />
+      <div
+        class="Cell "
+      />
+      <div
+        class="Cell "
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

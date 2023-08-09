@@ -1,0 +1,13 @@
+.Board {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 380px;
+  margin: 0 auto;
+  background-color: #333;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.board-row {
+  display: flex;
+}
